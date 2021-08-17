@@ -81,6 +81,9 @@ float: none;
 .happy{
   font-size: 1.3rem;
 }
+p{
+  text-align: left;
+}
 /*CONTAINER*/
 .container-fluid{
   padding: 0;
@@ -110,7 +113,7 @@ a{
   color:white;
 }
 .s-a{
-  padding:15px;
+  padding:25px;
 }
 ul{
   -webkit-column-count: 3;
