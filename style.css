@@ -73,10 +73,14 @@ float: none;
   
 }
 .bio{
+  padding: 15px;
   background-color:rgb(184, 180, 174);
   opacity:0.7;
   width: 45%;
   margin: auto;
+}
+.bio1{
+  padding:10px;
 }
 .happy{
   font-size: 1.3rem;
